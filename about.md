@@ -8,9 +8,8 @@ My favourite languages are C and Rust and my favourite domain is socket programm
 
 I have recently been inspired by reading Andrew Kelley's blog, about his programming experiences and his path to creating, Zig.
 
-This blog is just a way from me to record my trials and tribulations and I attempt to leverage my C knowledge and learn Zig.
+This blog is just a way from me to record my trials and tribulations and I attempt to leverage my C knowledge and learn Zig.`
 
 On a personal front, I am married to Becky and have 2 kids, Jack and Sophie.
 
 If you need to get in touch, you can reach me on [LinkedIn](<https://www.linkedin.com/in/hamish-macdonald-992315280/>)
-
