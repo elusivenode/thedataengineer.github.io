@@ -1,6 +1,6 @@
 # Me
 
-My name is **Hamish MacDonald** and I am a cloud data engineer.  Based in Brisbane, I am senior data engineer at [**Entain**].
+My name is **Hamish MacDonald** and I am a cloud data engineer.  Based in Brisbane, I am senior data engineer at [**Entain**](<https://entaingroup.com.au/>).
 
 My background has been in the financial services domain and I have previously worked at AMP, Schroders, BOQ and QSuper.  My passion for data and analytics has evolved throughout all of those jobs as I have gone up the learning curve.  My core experience and skills are in data warehousing.  However as I have read, coded, failed and coded some more, my interests have my closer and closer to the machine.
 
