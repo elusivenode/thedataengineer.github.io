@@ -1,12 +1,16 @@
 # Me
 
-My name is **Hamish MacDonald** and I am a cloud data engineer.  Based in Brisbane, I work as a consultant for [**Servian**](<https://Servian.com>).  **Servian** has a vision of being Australia's number one data firm and is a fantastic place to work.
+My name is **Hamish MacDonald** and I am a cloud data engineer.  Based in Brisbane, I am senior data engineer at [**Entain**].
 
-My background has been in the financial services domain and I have previously worked at AMP, Schroders, BOQ and QSuper.  My passion for data and analytics has evolved throughout all of those jobs as I have gone up the learning curve.  My core experience and skills are in data warehousing.  I am also a passionate Python and Scala programmer and try to contribute to open source projects for both languages in my spare time.
+My background has been in the financial services domain and I have previously worked at AMP, Schroders, BOQ and QSuper.  My passion for data and analytics has evolved throughout all of those jobs as I have gone up the learning curve.  My core experience and skills are in data warehousing.  However as I have read, coded, failed and coded some more, my interests have my closer and closer to the machine.
 
-I would like to become an expert at engineering machine learning applications.  Producing, enhancing and maintaing production-level machine learning applications is a niche skill with many technologies to master and a fast pace of development and change.  I feel very fortunate to be able to work in this domain at this time in history.
+My favourite languages are C and Rust and my favourite domain is socket programming and language servers.
+
+I have recently been inspired by reading Andrew Kelley's blog, about his programming experiences and his path to creating, Zig.
+
+This blog is just a way from me to record my trials and tribulations and I attempt to leverage my C knowledge and learn Zig.
 
 On a personal front, I am married to Becky and have 2 kids, Jack and Sophie.
 
-If you need to get in touch, you can reach me on [LinkedIn](<https://linkedin.com/in/hm1976>)
+If you need to get in touch, you can reach me on [LinkedIn](<https://www.linkedin.com/in/hamish-macdonald-992315280/>)
 
