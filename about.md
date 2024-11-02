@@ -6,7 +6,7 @@ My background has been in the financial services domain and I have previously wo
 
 My favourite languages are C and Rust and my favourite domain is socket programming and language servers.
 
-I have recently been inspired by reading [Andrew Kelley's blog]<https://andrewkelley.me/>, about his programming experiences and his path to creating, Zig.
+I have recently been inspired by reading [Andrew Kelley's blog](<https://andrewkelley.me/>), about his programming experiences and his path to creating, Zig.
 
 This blog is just a way from me to record my trials and tribulations and I attempt to leverage my C knowledge and learn Zig.`
 
