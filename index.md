@@ -1,4 +1,4 @@
-![Image of the elusivenode](images/elusivenode.jpeg)
+![Image of the elusivenode](images/ziggy_studying.jpeg)
 
-## Data Infrastucture As The Most Vital Of Assets
+## Gettin' Ziggy With It
 

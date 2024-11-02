@@ -6,13 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: The Data Engineer
-description: Tales of my journey to understanding how to engineer scalable, efficient, fault tolerant data pipelines
+title: Gettin' Ziggy With It
+description: Exciting tales of learning the Zig programming language
 github_username: elusivenode
-
-# Email and twitter are optional:
 email: elusivenode@gmail.com
-twitter_username: elusivenode
 
 # Set this to true to get LaTeX math equation support
 use_math:
